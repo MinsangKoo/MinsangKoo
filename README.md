@@ -1,6 +1,6 @@
 ![Header](header.png)
 # 👋 Hello!
-I'm Sean Koo, a computer science student at the University of California, Irvine. I'm from South Korea and am currently in the USA for college.
+I'm Sean Koo, a computer science graduate from the University of California, Irvine. I'm from South Korea and am currently looking for entry level positions.
 
 # :guitar: Technologies/Skills
 ![](https://img.shields.io/badge/code-python-blue)
